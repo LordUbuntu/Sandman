@@ -23,7 +23,7 @@ The model utilized linear regression to predict the sleep pressure experienced b
 
 Example Data
 
-| Time | Location | Light Temp | Light Brightness | sleep pressure (y) |
+| Time (x1) | Location (x2) | Light Temp (x3) | Light Brightness (x4) | sleep pressure (y) |
 |------|----------|------------|------------------|--------------------|
 | 17 | 49, -122 | -0.873 | 0.231 | 0.832 |
 
