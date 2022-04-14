@@ -2,7 +2,7 @@
 
 ## Description
 
-A very rudimentary linear regression model that assists in determining better sleeping patterns. This was done for a machine learning course. I was done in Octave (thought I would have preferred it were done in Python, Prof had a weird choice).
+A very rudimentary linear regression model that assists in determining better sleeping patterns. This was done for a machine learning course. It was done in Octave (GNU MATLAB) (thought I would have preferred it were done in Python, Prof had a weird choice).
 
 It is trained on incredibly simple and predictable data generated with a [python script](util/dataGenerator.py).
 
