@@ -4,7 +4,7 @@
 
 A very rudimentary linear regression model that assists in determining better sleeping patterns. This was done for a machine learning course. I was done in Octave (thought I would have preferred it were done in Python, Prof had a weird choice).
 
-It is trained on incredibly simple and predictable data generated with a [python script](https://github.com/LordUbuntu/Sandman/blob/main/util/dataGenerator.py).
+It is trained on incredibly simple and predictable data generated with a [python script](util/dataGenerator.py).
 
 ## Credits
 
